@@ -30,7 +30,7 @@ public class PigDiceGame {
 						break;
 					} else { // else we suggest him to hold the turn score
 						System.out.println("Your turn score is " + turnscore + " and your total score is " + totalscore);
-						System.out.println("If you hold, you will have " + turnscore + " points.")
+						System.out.println("If you hold, you will have " + turnscore + " points.");
 					}
 				}
 			} else if (RollorHold == 'h') {
@@ -41,5 +41,4 @@ public class PigDiceGame {
 			}
 		}
 	}
-
 }
