@@ -43,7 +43,7 @@ If you hold, you will have 11 points.
 
 Enter 'r' to roll again, 'h' to hold. 
 h
-Your turn score is 11 and your total score is 11
+Your turn score is 11 and your total score is 11.
 
 TURN 5:
 
