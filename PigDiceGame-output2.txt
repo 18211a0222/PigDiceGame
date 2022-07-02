@@ -1,0 +1,80 @@
+TURN 1:
+
+Welcome to the game of Pig! 
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 3
+Your turn score is 3 and your total score is 0
+If you hold, you will have 3 points.
+
+Enter 'r' to roll again, 'h' to hold. 
+h
+Your turn score is 3 and your total score is 3
+
+TURN 2:
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 6
+Your turn score is 9 and your total score is 3
+If you hold, you will have 9 points.
+
+Enter 'r' to roll again, 'h' to hold. 
+h
+Your turn score is 9 and your total score is 9
+
+TURN 3:
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 1
+Turn over. No Score
+
+TURN 4:
+
+Welcome to the game of Pig! 
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 2
+Your turn score is 11 and your total score is 9
+If you hold, you will have 11 points.
+
+Enter 'r' to roll again, 'h' to hold. 
+h
+Your turn score is 11 and your total score is 11
+
+TURN 5:
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 3
+Your turn score is 14 and your total score is 11
+If you hold, you will have 14 points.
+
+Enter 'r' to roll again, 'h' to hold. 
+h
+Your turn score is 14 and your total score is 14
+
+TURN 6:
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 3
+Your turn score is 17 and your total score is 14
+If you hold, you will have 17 points.
+
+Enter 'r' to roll again, 'h' to hold. 
+h
+Your turn score is 17 and your total score is 17
+
+TURN 7:
+
+Enter 'r' to roll again, 'h' to hold. 
+r
+You rolled: 6
+Your turn score is 23 and your total score is 23
+You Win! You finished in 7 turns!
+
+Game over!
