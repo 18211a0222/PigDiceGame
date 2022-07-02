@@ -22,8 +22,8 @@ If you hold, you will have 14 points.
 
 Enter 'r' to roll again, 'h' to hold. 
 r
-You rolled: 1
-Turn over. No Score
+You rolled: 1 
+Turn over. No Score 
 
 TURN 2:
 
