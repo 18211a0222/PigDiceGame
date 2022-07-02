@@ -15,7 +15,7 @@ public class PigDiceGame {
 			if (RollorHold == 'r') { // this if else is for 'r' or 'h' input from user if it is r we roll the dice
 				int diceroll = (int) Math.floor(Math.random() * (6) + 1); //  this gives a random number between 1 and 6 like a dice
 				System.out.println("You rolled: " + diceroll);
-				if (diceroll == 1) { // in this if else, if the dice roll is 1 we end the turn and make the turn score zero as turn ended
+				if (diceroll == 1) { // in this if else, if the dice roll is 1 we end the turn and make the turn score zero as turn ended.
 					System.out.println("Turn over. No Score");
 					turnscore = totalscore; // as turn ended, the turn score is made to total score we have saved by holding 
 					turn += 1; // as the turn ended we go to next turn
@@ -30,7 +30,7 @@ public class PigDiceGame {
 						break;
 					} else { // else we suggest him to hold the turn score
 						System.out.println("Your turn score is " + turnscore + " and your total score is " + totalscore);
-						System.out.println("If you hold, you will have " + turnscore + " points.");
+						System.out.println("If you hold, you will have " + turnscore + " points.")
 					}
 				}
 			} else if (RollorHold == 'h') {
